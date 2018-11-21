@@ -67,8 +67,8 @@ MainView {
                 margins: units.gu(0)
                 bottomMargin: units.gu(6)
             }
-                zoomFactor: 1.5
-                url: "https://www.dropbox.com/home"
+                zoomFactor: 1.25
+                url: "https://www.dropbox.com/h"
 
                 userScripts: [
                     WebEngineScript {

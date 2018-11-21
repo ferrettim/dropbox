@@ -43,7 +43,7 @@ Rectangle {
             MouseArea {
                 anchors.fill: parent
                 onClicked: {
-                    webview.url = 'https://www.dropbox.com/home'
+                    webview.url = 'https://www.dropbox.com/h'
                 }
             }
         }
