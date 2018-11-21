@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+8531cdc6fe86ce62a0ae881bea13bc4f CMakeFiles/dropbox.desktop
+4a9d77d5551d612d4cefd85cd5843a87 po/CMakeFiles/dropbox.dropbox.pot
+85602f93740f357689e1028d505a760e po/CMakeFiles/pofiles_1
+79b29224b951d480118bf0a8c3aedf5b po/es.gmo
